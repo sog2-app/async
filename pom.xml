@@ -10,7 +10,7 @@
   <properties>
 	  <maven.compiler.source>1.8</maven.compiler.source>
 	  <maven.compiler.target>1.8</maven.compiler.target>
-	  <sonar.organization>sog2-app</sonar.organization>
+	  <sonar.organization>testdemo</sonar.organization>
 	  <sonar.host.url>http://ec2-52-53-233-112.us-west-1.compute.amazonaws.com:9000/</sonar.host.url>
   </properties>
 
